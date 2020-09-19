@@ -14,12 +14,12 @@ public class Dealer {
 	Scanner scanner = new Scanner(System.in);
 
 	public Dealer() {
-			this.deck = new Deck();
-			Hand player = new Hand("Player");
-			Hand dealer = new Hand("Dealer");
-			players.add(player);
-			players.add(dealer);
-		}
+		this.deck = new Deck();
+		Hand player = new Hand("Player");
+		Hand dealer = new Hand("Dealer");
+		players.add(player);
+		players.add(dealer);
+	}
 
 	public void startGame() {
 		firstDeal();
