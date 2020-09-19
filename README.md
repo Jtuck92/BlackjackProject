@@ -4,16 +4,16 @@
 This program was written as a Week-4 homework assignment for Skill Distillery. Its function is to simulate a back-alley Blackjack dealer. The user assumes the role of the Player and is dealt cards as per the rules of Blackjack. Follwing the options laid out by the console will result in victory or defeat. 
 
 ## Topics
-Object-Oriented Programming
-Packages
-Abstraction
-Polymorphism
-Inheritance
-Encapsulation
-Array Lists
-Exception Handling
-Enums
-Game Theory
+* Object-Oriented Programming
+* Packages
+* Abstraction
+* Polymorphism
+* Inheritance
+* Encapsulation
+* Array Lists
+* Exception Handling
+* Enums
+* Game Theory
 
 ## How To Run
 The user is immediately presented the menu which contains the option to either engage with the back-alley Dealer, or cut their losses and shamble back into the night.
